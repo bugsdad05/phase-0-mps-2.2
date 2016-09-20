@@ -1,0 +1,4 @@
+What is a block-level element? What are some examples of block-level elements? What are they used for?
+Can you find any good charts or resources on when you should use these elements? For example, when might you use a div versus a section?
+What is an inline element?
+Do inline elements usually nest inside block-level elements, or is it typically the other way around?
