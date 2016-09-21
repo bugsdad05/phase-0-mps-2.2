@@ -1,4 +1,20 @@
 What is a block-level element? What are some examples of block-level elements? What are they used for?
+
+In HTML, block level element occupies the entire space of it’s parent element within the <body> element, creating a block. Block-level elements always begin on new lines and take up the full width available. Some examples are <p> (paragraph), <table>, and <li> (list item). Block-level elements are useful when you do not need or choose not to set a width and height.
+
 Can you find any good charts or resources on when you should use these elements? For example, when might you use a div versus a section?
+
+The following links provides a good visual: 
+
+https://www.impressivewebs.com/difference-block-inline-css/
+http://www.w3schools.com/html/html_blocks.asp
+
+A <div> element is used to style blocks of content. Therefore, you may want to use a <div> element for the purpose of structuring a page
+
 What is an inline element?
+
+An inline element is similar to a block element, but in does not always start on a new line. It can be in line with text. Therefore, an inline element occupies only the space bounded by the tags that define the inline element.
+
 Do inline elements usually nest inside block-level elements, or is it typically the other way around?
+
+Yes, by definition a block-level element could not be nested inside an inline element. 
